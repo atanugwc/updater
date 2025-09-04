@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1.2",
+  "changelog": "• Added auto-update timer\n• Fixed tray-icon crash on shutdown",
+  "url": "https://github.com/atanugwc/updater/releases/latest"
+}
