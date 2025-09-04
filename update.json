@@ -1,6 +1,6 @@
 {
   "version": "1.0.1.2",
-  "changelog": "Added auto-update timer\nFixed tray-icon crash on shutdown\nImproved logging format",
+  "changelog": "Improved Stability\nFixed other issue",
   "urls": [
     "https://github.com/atanugwc/updater/releases/download/v1/DtxSQLBrowser.exe",
     "https://github.com/atanugwc/updater/releases/download/v1/autostart.bat",
