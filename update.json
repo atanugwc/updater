@@ -1,5 +1,9 @@
 {
   "version": "1.0.1.2",
-  "changelog": "• Added auto-update timer\n• Fixed tray-icon crash on shutdown",
-  "url": "https://github.com/atanugwc/updater/releases/download/v1/DtxSQLBrowser1.exe"
+  "changelog": "Added auto-update timer\nFixed tray-icon crash on shutdown\nImproved logging format",
+  "urls": [
+    "https://github.com/atanugwc/updater/releases/download/v1/DtxSQLBrowser1.exe",
+    "https://github.com/atanugwc/updater/releases/download/v1/autostart.bat",
+    "https://github.com/atanugwc/updater/releases/download/v1/Ctree.Data.SqlClient.dll"
+  ]
 }
