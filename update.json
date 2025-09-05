@@ -1,6 +1,7 @@
 {
   "version": "1.0.1.2",
   "changelog": "Improved Stability\nFixed other issue",
+  "autoupdate": true,
   "urls": [
     "https://github.com/atanugwc/updater/releases/download/v1/DtxSQLBrowser.exe",
     "https://github.com/atanugwc/updater/releases/download/v1/autostart.bat",
